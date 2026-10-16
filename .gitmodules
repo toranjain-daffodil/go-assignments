@@ -1,3 +1,6 @@
 [submodule "course-management"]
 	path = course-management
 	url = https://github.com/toranjain-daffodil/course-management-go
+[submodule "api-health-monitor"]
+	path = api-health-monitor
+	url = https://github.com/toranjain-daffodil/api-health-monitor-go.git
