@@ -7,3 +7,6 @@
 [submodule "large-file-processing"]
 	path = large-file-processing
 	url = https://github.com/toranjain-daffodil/large-file-processing.git
+[submodule "background-job-scheduler"]
+	path = background-job-scheduler
+	url = https://github.com/toranjain-daffodil/background-job-scheduler
